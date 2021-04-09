@@ -23,12 +23,9 @@ public class BooleanOperators{
         boolean b1 = f1 > f2;
     }
     public void test_inf(){
-        float f1 = 56;
-        float f2 = 67;
-        boolean b1 = f1 < f2;
-
-
-
+        double f1 = 56;
+        double f2 = 56;
+        boolean b1 = f1 == f2;
     }
     public void test_if(){
         float f1 = 56;
